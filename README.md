@@ -116,3 +116,11 @@ BLYNK_WRITE(V3) { digitalWrite(lockPin, param.asInt()); }
 void loop() {
   Blynk.run();
 }
+
+ Key Benefits of This Prototype
+
+Scalable to more devices
+
+Easily upgradable to use sensors (temperature, motion, etc.)
+
+Works in simulation (Tinkercad) and hardware (with Blynk)
