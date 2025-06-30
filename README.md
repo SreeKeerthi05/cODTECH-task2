@@ -19,6 +19,7 @@ MENTOR : NEELA SANTOSH
 
 
 OVERVIEW OF THE PROJECT
+
 Goal: Control multiple home devices (light, fan, etc.) using a mobile app or virtual switches.
 Platform: Tinkercad Circuits (for simulation), Blynk (for real-world implementation).
 Microcontroller: Arduino UNO (simulated in Tinkercad).
