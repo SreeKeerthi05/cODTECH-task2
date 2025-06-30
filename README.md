@@ -18,7 +18,36 @@ DURATION : ONE MONTH
 MENTOR : NEELA SANTOSH
 
 
+OVERVIEW OF THE PROJECT
+Goal: Control multiple home devices (light, fan, etc.) using a mobile app or virtual switches.
+Platform: Tinkercad Circuits (for simulation), Blynk (for real-world implementation).
+Microcontroller: Arduino UNO (simulated in Tinkercad).
+Communication: Simulated via Serial Monitor in Tinkercad / WiFi using NodeMCU in real hardware.
 
+
+COMPONENTS USED:
+1. Arduino UNO
+
+
+2. LEDs (to represent appliances like light, fan, etc.)
+
+
+3. Resistors (220Ω) for LEDs
+
+
+4. Breadboard
+
+
+5. Push buttons or serial input (for app simulation)
+
+ 
+Key Benefits of This Prototype:
+
+Scalable to more devices
+
+Easily upgradable to use sensors (temperature, motion, etc.)
+
+Works in simulation (Tinkercad) and hardware (BLYNK)
 
 
 
